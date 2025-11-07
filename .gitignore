@@ -1,0 +1,12 @@
+#  Private code folder — do NOT upload this!
+src/
+
+#  Node.js dependencies
+node_modules/
+
+# ⚙️ Environment variables (API keys, secrets)
+.env
+
+#  System or cache files
+.DS_Store
+npm-debug.log
